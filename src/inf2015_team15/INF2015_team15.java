@@ -21,6 +21,8 @@ public class INF2015_team15 {
     private int chargeTravail;
     private String dateRevisionSalaire ;
     
+    
+    
 
     /**
      * @param args the command line arguments
