@@ -10,7 +10,7 @@ package inf2015_team15;
  * @author phili
  */
 public class INF2015_team15 {
-    // DÉCLARATION DES VARIABLES DE CLASSES
+    // DÉCLARATION DES VARIABLES DE CLASSES ...
     
     private int typeDepartement ; // réponses possible: [0,1,2]
     private double tauxMinHoraire;
@@ -20,6 +20,7 @@ public class INF2015_team15 {
     private int nbDiplomes;
     private int chargeTravail;
     private String dateRevisionSalaire;
+    
     
     
     
