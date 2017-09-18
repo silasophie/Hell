@@ -19,7 +19,7 @@ public class INF2015_team15 {
     private int nbDroitAnciennete ;
     private int nbDiplomes;
     private int chargeTravail;
-    private String dateRevisionSalaire ;
+    private String dateRevisionSalaire;
     
     
     
